@@ -5,7 +5,7 @@
 
 *Thanks!🙂 #CS50*
 
-## ***CS50x Egypt (Summer-2021):***
+## ***CS50x Egypt (Summer-2023):***
 
 ### ***Week 0***
 > 📖 [Scratch](https://cs50.harvard.edu/x/2021/weeks/0)
