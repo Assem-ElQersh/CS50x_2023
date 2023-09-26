@@ -9,6 +9,6 @@
 
 ### ***Week 0***
 > 📖 [Scratch](https://cs50.harvard.edu/x/2021/weeks/0)
-- [1- Pset 0 Scratch]
+- [1- Pset 0 Scratch](https://github.com/Assem-ElQersh/CS50x_2023/tree/main/PSet%200)
 
 ### ***Week 1***
