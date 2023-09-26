@@ -21,4 +21,7 @@
 - [PSet 1 Mario (Less)](https://github.com/Assem-ElQersh/CS50x_2023/tree/main/PSet%201/mario-less)
 - [PSet 1 Mario (More)](https://github.com/Assem-ElQersh/CS50x_2023/tree/main/PSet%201/mario-more)
 - [PSet 1 Cash](https://github.com/Assem-ElQersh/CS50x_2023/tree/main/PSet%201/cash)
-- [PSet 1 Credit]()
+- [PSet 1 Credit](https://github.com/Assem-ElQersh/CS50x_2023/tree/main/PSet%201/credit)
+
+### ***Week 2***
+> 📖 [Arrays](https://cs50.harvard.edu/x/2023/weeks/2/)
